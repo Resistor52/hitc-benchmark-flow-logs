@@ -1,8 +1,8 @@
-###########################################################################
-# Generate plots to visualize the results of the CloudWatch Logs Insights #
-# query discussed in Head in the Clouds EP18                              #
-# See https://headintheclouds.site/episodes/episode18                     #
-###########################################################################
+########################################################
+# Convert the modulo timestamp back to epoch time      #
+# To be used with generate-test-traffic.py             #
+# See https://headintheclouds.site/episodes/episode18  #
+########################################################
 
 import sys
 from numpy import genfromtxt

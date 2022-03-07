@@ -1,5 +1,5 @@
 #############################################################################################
-# Generate TCP traffic such that the source port is is a timestamp that can be used to      #
+# Generate TCP traffic such that the source port is a timestamp that can be used to         #
 # benchmark a remote flow logging system. One packet per second.  Must be run as root!      #
 # www.kennethghartman.com    |    www.headintheclouds.site   |   @kennethghartman           #
 #############################################################################################
